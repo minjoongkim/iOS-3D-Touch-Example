@@ -6,7 +6,7 @@
 3. ForceTouchPowerCheck
 
 ##1.ShotCutItem Add
-![Screenshot](Screenshot1.PNG)
+![Screenshot](Screenshot1.png)
 
 icon - https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIApplicationShortcutIcon_Class/index.html#//apple_ref/c/tdef/UIApplicationShortcutIconType
 
@@ -54,7 +54,7 @@ icon - https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIA
 
 
 ##2. ForceTouch
-![Screenshot](Screenshot2.PNG)
+![Screenshot](Screenshot2.png)
 
 ###1. register for 3D Touch
 ```objective-c
